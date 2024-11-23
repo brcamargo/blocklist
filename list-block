@@ -1,13 +1,33 @@
 # all owned 
 
-censys.io
-www.censys.com
-censys.com
-community.censys.com
-go.censys.com
-go2.censys.com
-hello.censys.com
-help.censys.com
-security.censys.com
-status.censys.com
-www.censys.com
+0.0.0.0 censys.io
+0.0.0.0 www.censys.com
+0.0.0.0 censys.com
+0.0.0.0 community.censys.com
+0.0.0.0 go.censys.com
+0.0.0.0 go2.censys.com
+0.0.0.0 hello.censys.com
+0.0.0.0 help.censys.com
+0.0.0.0 security.censys.com
+0.0.0.0 status.censys.com
+0.0.0.0 www.censys.com
+0.0.0.0 .census1.shodan.io
+0.0.0.0 .census2.shodan.io
+0.0.0.0 .census3.shodan.io
+0.0.0.0 .census4.shodan.io
+0.0.0.0 .census5.shodan.io
+0.0.0.0 .census6.shodan.io
+0.0.0.0 .census7.shodan.io
+0.0.0.0 .census8.shodan.io
+0.0.0.0 .census9.shodan.io
+0.0.0.0 .census10.shodan.io
+0.0.0.0 .census11.shodan.io
+0.0.0.0 .census12.shodan.io
+0.0.0.0 .atlantic.census.shodan.io
+0.0.0.0 .pacific.census.shodan.io
+0.0.0.0 .rim.census.shodan.io
+0.0.0.0 .m247.ro.shodan.io
+0.0.0.0 .pirate.census.shodan.io
+0.0.0.0 .ninja.census.shodan.io
+0.0.0.0 .border.census.shodan.io
+0.0.0.0 .burger.census.shodan.io
