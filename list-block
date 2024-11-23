@@ -3,6 +3,7 @@
 0.0.0.0 censys.io
 0.0.0.0 www.censys.com
 0.0.0.0 censys.com
+0.0.0.0 *.censys.com
 0.0.0.0 community.censys.com
 0.0.0.0 go.censys.com
 0.0.0.0 go2.censys.com
