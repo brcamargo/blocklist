@@ -1,13 +1,13 @@
 # all owned 
 
-0.0.0.0 censys.io
-0.0.0.0 www.censys.com
-0.0.0.0 censys.com
-0.0.0.0 community.censys.com
-0.0.0.0 go.censys.com
-0.0.0.0 go2.censys.com
-0.0.0.0 hello.censys.com
-0.0.0.0 help.censys.com
-0.0.0.0 security.censys.com
-0.0.0.0 status.censys.com
-0.0.0.0 www.censys.com
+censys.io
+www.censys.com
+censys.com
+community.censys.com
+go.censys.com
+go2.censys.com
+hello.censys.com
+help.censys.com
+security.censys.com
+status.censys.com
+www.censys.com
